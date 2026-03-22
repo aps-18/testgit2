@@ -36,6 +36,7 @@ Lors du merge, Git détecte un conflit car la même ligne du fichier README.md a
 
 # 12. Résolution de conflit
 
+fait 
 
 
 
