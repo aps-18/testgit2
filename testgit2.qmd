@@ -4,4 +4,39 @@ format: html
 editor: visual
 ---
 
-sd szs
+# 3. Quels fichiers sont présents ?
+
+README.md
+testegit2.Rproj 
+.gitignore
+
++ le fichier testgit2.qmd que je viens de créer
+
+# 5. Différence sur GitHub ?
+
+Pas de différence car je n'ai pas fait de push
+
+# 6. Que s’est-il passé cette fois-ci sur le dépôt GitHub ?
+
+Je peux voir que README.md a été modifié (grâce au commit + push)
+
+# 9. Ouvrez une pull request sur GitHub, puis faites un merge de la branche-2 dans main.
+
+J’ai créé une pull request entre la branche branche-2 et main. La fusion a été réalisée sans conflit. Les modifications de branche-2 ont été intégrées dans la branche principale main.
+
+# 10. Quel est le dernier commit détecté ?
+
+Le dernier commit détecté est le commit de fusion de la branche branche-2 dans main. 
+Comme c'est celui qui a été fusionnée
+
+
+# 11. Que se passe-t-il ? Commentez.
+
+Lors du merge, Git détecte un conflit car la même ligne du fichier README.md a été modifiée différemment dans les branches. Il est nécessaire de résoudre manuellement le conflit.
+
+# 12. Résolution de conflit
+
+fait 
+
+
+
